@@ -1,5 +1,6 @@
 // SocketClient.cpp : définit le point d'entrée pour l'application console.
 //
+//
 #include "stdafx.h"
 #include <iostream>
 #define _WINSOCK_DEPRECATED_NO_WARNINGS
